@@ -2,6 +2,7 @@
 # Projeto Ecommerce Online
 
 - [Introdução](#introdução)
+- [Arquitetura](#arquitetura-do-projeto)
 
 ## Introdução
 
